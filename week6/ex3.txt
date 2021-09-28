@@ -8,3 +8,8 @@ P5:  13   4    19   6    2
 
 Average Waiting Time = 1.200000
 Average Turnaround Time = 4.000000
+
+
+I just make something like queue but not queue, after passing one job I search all jobs that I didn't visit while doing another job
+and chose the smallest arrival time job. 
+It will not work when we need to divide into 3 or more pieces one job. This code have a lot of bugs) I hate C
