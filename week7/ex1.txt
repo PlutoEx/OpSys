@@ -1,0 +1,2 @@
+text	data	bss 	dec		hex		filename
+2052	599		8	    3018	ba5		./week4/ex1.c
