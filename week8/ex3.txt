@@ -1,0 +1,30 @@
+[?25l[?1c[H[J[mtop - 06:52:21 up 30 min,  2 users,  load average: 0.18, 0.14, 0.10[m[39;49m[m[39;49m[K
+Tasks:[m[39;49m[1m  59 [m[39;49mtotal,[m[39;49m[1m   1 [m[39;49mrunning,[m[39;49m[1m  55 [m[39;49msleeping,[m[39;49m[1m   3 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m 20.3 [m[39;49mus,[m[39;49m[1m 42.4 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 23.7 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m 10.2 [m[39;49mhi,[m[39;49m[1m  3.4 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+MiB Mem :[m[39;49m[1m    491.3 [m[39;49mtotal,[m[39;49m[1m    399.2 [m[39;49mfree,[m[39;49m[1m     53.3 [m[39;49mused,[m[39;49m[1m     38.9 [m[39;49mbuff/cache[m[39;49m[m[39;49m[K
+MiB Swap:[m[39;49m[1m      0.0 [m[39;49mtotal,[m[39;49m[1m      0.0 [m[39;49mfree,[m[39;49m[1m      0.0 [m[39;49mused.[m[39;49m[1m    425.5 [m[39;49mavail Mem [m[39;49m[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                    [m[39;49m[K
+[m[1m 1208 root      20   0    5992   3052   2688 R  33.3   0.6   0:00.49 top                                                        [m[39;49m[K
+[m    1 root      20   0    2304   1396   1316 S   0.0   0.3   0:09.08 init-openrc                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0   0.0   0:00.05 kthreadd                                                   [m[39;49m[K
+[m    3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp                                                     [m[39;49m[K
+[m    4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp                                                 [m[39;49m[K
+[m    6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H                                               [m[39;49m[K
+[m    7 root      20   0       0      0      0 I   0.0   0.0   0:00.81 kworker/u4:0-events_power_efficient                        [m[39;49m[K
+[m    8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 mm_percpu_wq                                               [m[39;49m[K
+[m    9 root      20   0       0      0      0 S   0.0   0.0   0:01.98 ksoftirqd/0                                                [m[39;49m[K
+[m   10 root      -2   0       0      0      0 S   0.0   0.0   0:00.00 rcuc/0                                                     [m[39;49m[K
+[m   11 root      -2   0       0      0      0 I   0.0   0.0   0:04.01 rcu_preempt                                                [m[39;49m[K
+[m   12 root      -2   0       0      0      0 S   0.0   0.0   0:00.00 rcub/0                                                     [m[39;49m[K
+[m   13 root      rt   0       0      0      0 S   0.0   0.0   0:00.00 migration/0                                                [m[39;49m[K
+[m   14 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                              [m[39;49m[K
+[m   15 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                                    [m[39;49m[K
+[m   16 root      20   0       0      0      0 S   0.0   0.0   0:00.07 kdevtmpfs                                                  [m[39;49m[K
+[m   17 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 netns                                                      [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_kthre                                            [m[39;49m[K
+[m   19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_rude_                                            [m[39;49m[K
+[m   21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 khungtaskd                                                 [m[39;49m[K
+[m   22 root      20   0       0      0      0 S   0.0   0.0   0:00.00 oom_reaper                                                 [m[39;49m[K
+[m   23 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 writeback                                                  [m[39;49m[K
+[m   24 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kcompactd0                                                 [m[39;49m[K[49;1H[?25h[?0c

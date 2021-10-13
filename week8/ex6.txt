@@ -1,0 +1,5 @@
+Formula: #entires = #addresses / #bytes per page
+
+#addresses = 2^16
+#bytes per page = 8KB = 2^3 * 2^10 = 2^13
+#entires = 2^16 / 2^13 = 2^3 = 8
