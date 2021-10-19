@@ -1,0 +1,8 @@
+Ration = Hit / Miss
+
+To increase ratio, we need to increase Hit, decrease Miss so we need to use same number of pages
+Hit = N - 1, Miss = 1, Ratio = N - 1
+
+To decrease ratio, use different number of pages
+Hit = 0, Miss = N, Ratio = 0
+ 
