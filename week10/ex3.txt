@@ -1,0 +1,5 @@
+
+660: Read, Write for Owner, Group 
+775: Read, Write, Execute for Owner, Group
+	 Read, Execute for Others
+777: Read, Write, Execute for All

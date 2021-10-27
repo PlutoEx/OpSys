@@ -1,0 +1,5 @@
+# It deletes all after running ex2.sh
+
+./week10/_ex2.txt
+./week1/file.txt
+                                     
