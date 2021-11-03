@@ -1,0 +1,8 @@
+$RECYCLE.BIN
+1_ASUS
+Activators
+DRIVERS
+eManual.Lnk
+Program Files
+System Volume Information
+TempFolder
